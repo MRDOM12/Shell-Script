@@ -208,10 +208,6 @@ This project helped me gain practical experience in:
 
 **Aaron S Binu**
 
-B.Tech Computer Science Engineering
-
-GitHub: https://github.com/MRDOM12
-
 ---
 
 ## License
